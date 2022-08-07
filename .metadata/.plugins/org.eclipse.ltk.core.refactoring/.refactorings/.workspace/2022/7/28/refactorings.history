@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;com.ibik.pbo.pertemuan1&apos; to &apos;my-app&apos;" description="Rename resource &apos;com.ibik.pbo.pertemuan1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/com.ibik.pbo.pertemuan1" name="my-app" stamp="1657700447721" updateReferences="true"/>
+</session>
