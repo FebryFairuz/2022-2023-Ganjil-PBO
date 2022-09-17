@@ -1,7 +1,7 @@
 ## Source Code Materi Pemograman Berbasis Objek & Lab
 
-Academic Calendar 2021-2022 Ganjil 
-Class of TI-20-PA (A1 and A2) and TI-20-KA
+Academic Calendar 2022-2023 Ganjil 
+Class of TI-21-PA (A1 and A2) and TI-21-KA
 
 Institute Business and Informatics Kesatuan Bogor
 
