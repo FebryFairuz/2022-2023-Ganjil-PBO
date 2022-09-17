@@ -11,7 +11,7 @@ Institute Business and Informatics Kesatuan Bogor
 - IDE Text Editor ([Notepad++](https://notepad-plus-plus.org/downloads/), [Sublime](https://www.sublimetext.com/3), [VSCode](https://code.visualstudio.com/download), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://www.oracle.com/java/technologies/javase-jdk-7-netbeans-downloads.html))
 - Command Line (Windows) or Terminal (Linux)
 - UML Online [here](https://www.diagrameditor.com/)
-- Star UML [here](https://staruml.io/download) or use online UML [here](https://creately.com/lp/uml-diagram-tool/)
+- UML offline tools Star UML [here](https://staruml.io/download)
 - Apache Maven [here](https://maven.apache.org/download.cgi) 
 - Library Eclipse Window Builder [here](https://download.eclipse.org/windowbuilder/latest/)
 
