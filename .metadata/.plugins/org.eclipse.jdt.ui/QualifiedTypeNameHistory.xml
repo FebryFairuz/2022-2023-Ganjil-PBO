@@ -5,4 +5,7 @@
     <fullyQualifiedTypeName name="com.ibik.pbo.runtunan.Dog"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.repetitions.Resto"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.pertemuan2.Dog"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.pertemuan2.MainApps"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>

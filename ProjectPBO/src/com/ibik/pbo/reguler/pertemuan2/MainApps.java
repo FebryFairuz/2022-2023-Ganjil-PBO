@@ -1,4 +1,4 @@
-package com.ibik.pbo.pertemuan2;
+package com.ibik.pbo.reguler.pertemuan2;
 import java.util.Scanner;
 //Muhammad Alfan (212310017)
 //Muhammad Rafi  (212310019)

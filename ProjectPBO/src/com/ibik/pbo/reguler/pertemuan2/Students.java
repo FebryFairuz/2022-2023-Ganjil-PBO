@@ -1,4 +1,4 @@
-package com.ibik.pbo.pertemuan2;
+package com.ibik.pbo.reguler.pertemuan2;
 
 public class Students {
 	int NPM;
