@@ -6,6 +6,6 @@
     <fullyQualifiedTypeName name="com.ibik.pbo.repetitions.Resto"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.pertemuan2.Dog"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.pertemuan2.MainApps"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
