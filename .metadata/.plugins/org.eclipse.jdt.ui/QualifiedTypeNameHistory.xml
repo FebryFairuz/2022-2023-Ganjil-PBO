@@ -6,6 +6,11 @@
     <fullyQualifiedTypeName name="com.ibik.pbo.repetitions.Resto"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.pertemuan2.Dog"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.pertemuan2.MainApps"/>
-    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Assignment2"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Assignment1"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Assignment3"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Students"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Assignment5"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>
