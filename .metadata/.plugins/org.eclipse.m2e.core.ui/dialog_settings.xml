@@ -69,4 +69,18 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/febryfairuz/Documents/IBIK/2022-2023/Ganjil/Pemograman-Berbasis-Object/Workspace/pbo-project-maven"/>
+			<item value="/Users/febryfairuz/Documents/IBIK/2022-2023/Ganjil/Pemograman-Berbasis-Object/Workspace/project-maven-pbo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>
