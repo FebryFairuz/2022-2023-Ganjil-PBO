@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="com.ibik.pbo.runtunan.Dog"/>
-    <fullyQualifiedTypeName name="com.ibik.pbo.repetitions.Resto"/>
-    <fullyQualifiedTypeName name="com.ibik.pbo.pertemuan2.Dog"/>
-    <fullyQualifiedTypeName name="com.ibik.pbo.pertemuan2.MainApps"/>
-    <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Assignment2"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Assignment1"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Assignment3"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.tugas.Students"/>
@@ -15,7 +9,6 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.sample.Children"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.sample.Person"/>
@@ -36,28 +29,35 @@
     <fullyQualifiedTypeName name="javax.swing.BoxLayout"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.swing.SwingApp"/>
     <fullyQualifiedTypeName name="javax.swing.JPasswordField"/>
-    <fullyQualifiedTypeName name="javax.swing.JTextArea"/>
     <fullyQualifiedTypeName name="javax.swing.WindowConstants"/>
     <fullyQualifiedTypeName name="com.ibik.pbo.swing.CalculatorApp"/>
     <fullyQualifiedTypeName name="javax.swing.JTextField"/>
-    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
-    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
     <fullyQualifiedTypeName name="javax.swing.JMenuBar"/>
     <fullyQualifiedTypeName name="javax.swing.JMenu"/>
     <fullyQualifiedTypeName name="javax.swing.JMenuItem"/>
     <fullyQualifiedTypeName name="javax.swing.JTable"/>
     <fullyQualifiedTypeName name="javax.swing.JScrollPane"/>
     <fullyQualifiedTypeName name="javax.swing.SwingConstants"/>
-    <fullyQualifiedTypeName name="java.awt.Dimension"/>
     <fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
+    <fullyQualifiedTypeName name="javax.swing.event.MouseInputListener"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
     <fullyQualifiedTypeName name="javax.swing.JButton"/>
     <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
-    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
-    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
     <fullyQualifiedTypeName name="javax.swing.JFrame"/>
-    <fullyQualifiedTypeName name="javax.swing.event.MouseInputListener"/>
-    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
-    <fullyQualifiedTypeName name="java.awt.GridLayout"/>
-    <fullyQualifiedTypeName name="java.awt.Color"/>
     <fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextArea"/>
+    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="java.awt.GridLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.teori.jdbc.dao.students.Students"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.teori.jdbc.dao.students.StudentsDao"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="com.ibik.pbo.teori.jdbc.ScoreApps"/>
 </qualifiedTypeNameHistroy>

@@ -3,9 +3,13 @@ package com.ibik.pbo.teori;
 import javax.swing.AbstractButton;
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.SwingConstants;
 import javax.swing.WindowConstants;
+
+import java.awt.BorderLayout;
 import java.awt.GridLayout;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
@@ -14,9 +18,10 @@ public class MainApp {
 
     int clicked = 1;
     JButton Button[];
+    int pointX = 1, pointO = 0;
 	
 	MainApp(){
-		JFrame frame = new JFrame("Contoh Window Frame");
+		JFrame frame = new JFrame("Tic Tac Toe");
 		frame.setVisible(true);
 		frame.pack();
 		frame.setLocationRelativeTo(null);
@@ -34,6 +39,12 @@ public class MainApp {
 
     //MUHAMAD ILHAM FACHRIRIZAL
     private void GenerateUI(JFrame frame) {
+    	BorderLayout bl = new BorderLayout();
+    	frame.setLayout(bl);
+    	
+    	JLabel labelScore = new JLabel("Score X:"+pointX+"  O:"+pointO,SwingConstants.CENTER);
+    	frame.add(labelScore, bl.NORTH);
+    	
         JPanel panelButton=new JPanel();
         panelButton.setLayout(new GridLayout(3,3));
         Button=new JButton[9];
@@ -55,7 +66,7 @@ public class MainApp {
             panelButton.add(Button[i]);
             
         }
-        frame.add(panelButton);
+        frame.add(panelButton, bl.CENTER);
 
     }
 
@@ -66,11 +77,30 @@ public class MainApp {
             output = Button[0].getText();
         }else if(Button[0].getText().equals(Button[3].getText())&&Button[3].getText().equals(Button[6].getText())){
             output = Button[0].getText();
-        }
+        }//dst
+        
+        System.out.println(Button[0].getText());
         
         if(output.length() > 0){
-            JOptionPane.showMessageDialog(null,output+ " is winner!!");
+            JOptionPane.showMessageDialog(null,output+ " got point 1");
         }
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

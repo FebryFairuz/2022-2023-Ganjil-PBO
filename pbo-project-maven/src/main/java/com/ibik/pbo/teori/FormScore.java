@@ -152,7 +152,7 @@ public class FormScore extends JFrame {
 		JMenuBar menuBar = new JMenuBar();
 		
 		String lblMenu[] = {"File","Edit","Help"};
-		String lblSubMenuFile[] = {"New","Save","Exit"};
+		String lblSubMenuFile[] = {"Open Student Data","Exit"};
 
 		JMenu menus[] = new JMenu[lblMenu.length];
 		for (int i = 0; i < menus.length; i++) {
